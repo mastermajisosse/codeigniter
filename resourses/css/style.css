@@ -1,0 +1,9 @@
+body{
+    background-image: url("../img/Board-Room-Raleigh.jpg");
+    background-size: cover;
+    font-size: 20px;
+
+}
+.cont{
+    opacity: 0.9;
+}
